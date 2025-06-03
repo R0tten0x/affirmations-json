@@ -106,5 +106,39 @@
     {"id": 98, "affirmation": "I value my own needs and feelings."},
     {"id": 99, "affirmation": "I am strong and self-assured."},
     {"id": 100, "affirmation": "I am assertive in pursuing my goals."}
+  ],
+  "Self-Love": [
+    {"id": 101, "affirmation": "I love and accept myself exactly as I am."},
+    {"id": 102, "affirmation": "My self-worth is not defined by others."},
+    {"id": 103, "affirmation": "I deserve love, kindness, and respect."},
+    {"id": 104, "affirmation": "I embrace my uniqueness with confidence."},
+    {"id": 105, "affirmation": "I am enough, just as I am."},
+    {"id": 106, "affirmation": "My relationship with myself is nurturing and strong."},
+    {"id": 107, "affirmation": "I treat myself with compassion and patience."},
+    {"id": 108, "affirmation": "I celebrate my accomplishments, big and small."},
+    {"id": 109, "affirmation": "I am proud of who I am becoming."},
+    {"id": 110, "affirmation": "I choose to speak to myself with love."},
+    {"id": 111, "affirmation": "I honor the journey of self-discovery."},
+    {"id": 112, "affirmation": "I radiate love from within."},
+    {"id": 113, "affirmation": "I prioritize my own happiness."},
+    {"id": 114, "affirmation": "I embrace every part of who I am."},
+    {"id": 115, "affirmation": "I am learning to love myself more every day."}
+  ],
+  "Gratitude": [
+    {"id": 116, "affirmation": "I am grateful for the blessings in my life."},
+    {"id": 117, "affirmation": "I find something to be thankful for every day."},
+    {"id": 118, "affirmation": "Gratitude fills my heart and guides my actions."},
+    {"id": 119, "affirmation": "I appreciate the beauty in the little things."},
+    {"id": 120, "affirmation": "Every challenge teaches me something new."},
+    {"id": 121, "affirmation": "Gratitude transforms my perspective."},
+    {"id": 122, "affirmation": "I am thankful for the people who support me."},
+    {"id": 123, "affirmation": "I express gratitude easily and frequently."},
+    {"id": 124, "affirmation": "I attract positive experiences through gratitude."},
+    {"id": 125, "affirmation": "My life is rich with appreciation and joy."},
+    {"id": 126, "affirmation": "Gratitude is a habit I nurture daily."},
+    {"id": 127, "affirmation": "I wake up thankful and go to sleep content."},
+    {"id": 128, "affirmation": "I give thanks for this present moment."},
+    {"id": 129, "affirmation": "Gratitude connects me to abundance."},
+    {"id": 130, "affirmation": "I am thankful for who I am today."}
   ]
 }
